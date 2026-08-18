@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hanuman Kshitij Tiwari — Portfolio ✨
+# ✨Kshitij Tiwari — Portfolio ✨
 
 ### A digital space where code meets creativity 🚀
 
@@ -18,19 +18,21 @@
 
 ## 🌌 Overview
 
-Welcome to my personal **Portfolio Website** — built completely from scratch using **HTML, CSS & JavaScript**, without any framework crutches. This is where I showcase who I am, what I build, and how you can reach me.
+Welcome to my personal **Portfolio Website** — a showcase of who I am, what I build, and how you can reach me.
+
+I'm a **MERN Stack Developer** (B.Tech CSE-AIML) who designs and ships full-stack products — from clean, responsive UIs to secure REST APIs and cloud-native deployments. Driven by performance, scalability & clean code. ⚡
 
 > "Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway, right below 👇
 
 ---
 
-## 🖼️ Preview
+## 🎯 What You'll Find
 
-<div align="center">
-  <img src="https://via.placeholder.com/900x450/6C63FF/ffffff?text=Add+Your+Portfolio+Screenshot+Here" alt="Portfolio Preview" width="80%">
-</div>
-
-> 💡 Replace the image above with an actual screenshot/GIF of your site — it makes the README pop instantly.
+- 🖥️ A sleek, dark-themed **hero section** introducing who I am
+- 🛠️ A dedicated **Skills** section highlighting my tech expertise
+- 💼 A **Projects** showcase of things I've built and shipped
+- 📜 A **Certifications** section proving what I've learned
+- 📩 A quick and easy way to **get in touch** with me
 
 ---
 
