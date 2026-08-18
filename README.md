@@ -1,11 +1,11 @@
 <div align="center">
 
-# ✨Kshitij Tiwari — Portfolio ✨
+# ✨ Hanuman Kshitij Tiwari — Portfolio ✨
 
 ### A digital space where code meets creativity 🚀
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-6C63FF?style=for-the-badge)](https://hanuman-kshitijtiwari.github.io/portfolio-website/)
-[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)](https://pages.github.com/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-6C63FF?style=for-the-badge)](https://hanuman-kshitij1001.github.io/portfolio-website/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)](https://hanuman-kshitij1001.github.io/portfolio-website/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,7 +68,7 @@ Want to run this locally? Follow these steps:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/hanuman-kshitijtiwari/portfolio-website.git
+git clone https://github.com/hanuman-kshitij1001/portfolio-website.git
 
 # 2️⃣ Move into the project folder
 cd portfolio-website
@@ -100,7 +100,7 @@ portfolio-website/
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.kshitiji001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijtiwari1)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanuman-kshitijtiwari)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanuman-kshitij1001)
 
 </div>
 
