@@ -2,7 +2,7 @@
 
 # ✨ Hanuman Kshitij Tiwari — Portfolio ✨
 
-### A digital space where code meets creativity 🚀
+### A digital space where code meets creativity 
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Now-6C63FF?style=for-the-badge)](https://hanuman-kshitij1001.github.io/portfolio-website/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=for-the-badge&logo=github)](https://hanuman-kshitij1001.github.io/portfolio-website/)
