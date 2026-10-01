@@ -26,7 +26,7 @@ I'm a **MERN Stack Developer** (B.Tech CSE-AIML) who designs and ships full-stac
 
 ---
 
-## 🎯 What You'll Find.
+##  What You'll Find.
 
 
 - 🖥️ A sleek, dark-themed **hero section** introducing who I am
